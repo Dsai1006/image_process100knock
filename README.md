@@ -6,6 +6,25 @@
 ## 努力目標
 ライブラリ無し実装やOpenCV実装を自力でやる
 
+## リポジトリのクローン
+```
+git clone git@github.com:dsaito3110/image_process100knock.git
+cd img_process100
+mkdir {UserName}
+cd {UserName}
+```
+
+## ファイルのadd
+```
+git add {UserName}/{FileName}
+```
+
+## ファイルのアップロード
+```
+git commit -a -m "{Write a nice comment about your update}"
+git push origin master
+```
+
 ## ディレクトリ構成
 ```
 image_process100knock/
