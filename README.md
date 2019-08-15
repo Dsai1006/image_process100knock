@@ -36,7 +36,8 @@ image_process100knock/
   ┝ README.md
   ┝ DaichiSaito
   |   ┝ chapter01
-  |   |  └ ch01_Saito.ipynb
+  |   |  └ ch01_Saito.ipynb <- ソースコード
+  |   |  └ answers <- 出力画像たち
   |   ┝ chapter02
   |   |
   |   ...
